@@ -1,3 +1,9 @@
+# About the project
+DashCode provides you an online text editor for HTML, CSS and JavaScript. The output of your code will be displayed in the lower-half of the webpage. It uses React.js as the front-end framework and codemirror library for the text editor.
+
+# Project Link : 
+https://dashcode.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
